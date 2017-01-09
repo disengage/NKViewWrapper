@@ -1,9 +1,9 @@
 //
 //  NKViewBoxSticker.m
-//  ViewWrapper
+//  Narongsak kongpan
 //
-//  Created by ebooks.in.th on 1/28/2557 BE.
-//  Copyright (c) 2557 PORAR WEB APPLICATION CO., LTD. All rights reserved.
+//  Created by Narongsak kongpan on 1/28/2557 BE.
+//  Copyright (c) 2557 Narongsak kongpan., LTD. All rights reserved.
 //
 
 #import "NKViewBoxSticker.h"
